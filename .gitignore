@@ -69,3 +69,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# Everything else
+LinuxPlayer_s.debug
+UnityPlayer_s.debug
+UnityPlayer.so
+build1_Data
+build1.x86_64
